@@ -25,7 +25,6 @@ The dataset includes relevant features such as customer demographics, transactio
 git clone https://github.com/Gangadhar24377/predicting_customer_churn.git
 ```
 2. Install dependencies:
-   Install the required dependencies for the project
 ```bash
 python -m venv venv # can use any name other venv as well
 source venv/bin/activate # On Windows, use: venv\Scripts\activate
