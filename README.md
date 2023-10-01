@@ -22,7 +22,7 @@ The dataset includes relevant features such as customer demographics, transactio
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/customer-churn-prediction.git
+git clone https://github.com/Gangadhar24377/predicting_customer_churn.git
 ```
 2. Install dependencies:
    Install the required dependencies for the project
